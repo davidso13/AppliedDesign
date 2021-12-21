@@ -1,4 +1,4 @@
-## Applied Design (Graduation project)
+#Applied Desing (Graduation project)
 
 ### 1. Purpose
 
@@ -9,8 +9,5 @@
 
 
 ### 3. Result
-
-
-
 
 
